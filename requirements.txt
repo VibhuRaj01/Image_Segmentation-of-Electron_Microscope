@@ -1,0 +1,8 @@
+opencv-python==4.5.5
+tensorflow==2.8.0
+keras==2.9.0
+numpy==1.22.3
+glob==0.7
+matplotlib==3.5.1
+sklearn==0.24.2
+pillow==9.1.0
